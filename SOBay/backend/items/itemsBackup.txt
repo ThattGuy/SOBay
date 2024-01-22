@@ -1,0 +1,6 @@
+1 computador informatica 100 400 100 Maria Joao
+2 cadeira moveis 20 50 70 Antonio Jose
+3 telemovel informatica 400 600 100 Sofia Rodrigo
+4 bolachas alimentacao 10 20 100 Duarte Rita
+5 comando informatica 50 70 100 Antonio -
+6 chuteiras desporto 40 60 200 Jose -
